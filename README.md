@@ -96,5 +96,5 @@ insights for agricultural planning and monitoring.
 
 ## 👤 Author
 
-**James Wachira**
-Data Scientist \ Remote Sensing & Machine Learning Enthusiast
+**James Wachira**\
+Data Scientist \| Remote Sensing & Machine Learning Enthusiast
